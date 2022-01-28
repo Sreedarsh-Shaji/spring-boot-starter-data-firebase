@@ -33,7 +33,7 @@ To use this, just include these dependencies in your pom:
 
 ```xml
 <dependency>
-    <groupId>com.github.fabiomaffioletti</groupId>
+    <groupId>com.github.Sreedarsh-Shaji</groupId>
     <artifactId>spring-boot-starter-data-firebase</artifactId>
     <version>1.0.0.RELEASE</version>
 </dependency>
